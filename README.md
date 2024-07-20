@@ -1,3 +1,3 @@
 # NewsBlogPost
 
-https://imgur.com/D74f6KQ
+<a href="https://imgur.com/D74f6KQ"> Output Video </a>
